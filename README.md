@@ -14,5 +14,4 @@
      <br>🔘<a href="https://in.mathworks.com/products/matlab/student.html">Download Matlab</a>
      <br>🔘<a href="https://www.cdslab.org/matlab/notes/preliminary-foundations/matlab-for-beginners/index.html#some-useful-resources-for-matlab" >Usefull Matlab Commands </a>
 
-For help getting started with Mathworks, view the
-<a href="https://in.mathworks.com/help/matlab/index.html?s_tid=CRUX_lftnav">online documantation</a>, which offers Language Fundamentals,Data Import and Analysis,Software Development Tools,Graphics and mathematics programming and other...
+  For help getting started with Mathworks, view the<a href="https://in.mathworks.com/help/matlab/index.html?s_tid=CRUX_lftnav">online documantation</a>, which offers Language Fundamentals,Data Import and Analysis,Software Development Tools,Graphics and mathematics programming and other...
