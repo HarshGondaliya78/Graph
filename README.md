@@ -5,7 +5,7 @@
  A new Matlab project.
 
 <h2>
-  Getting Started,
+  Getting Started
 </h2>
 
      This project is a starting point for a Mathwork projects.
